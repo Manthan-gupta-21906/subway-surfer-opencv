@@ -70,7 +70,7 @@ SUBWAY-SURFER-INTEGRATED-WITH-OPENCV/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/subway-surfer-opencv.git
+git clone https://github.com/Manthan-gupta-21906/subway-surfer-opencv
 cd subway-surfer-opencv
 ```
 
