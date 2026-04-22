@@ -1,0 +1,5 @@
+.vscode/
+__pycache__/
+*.pyc
+.env
+cv_env
