@@ -6,7 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=flat-square&logo=opencv)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-orange?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square&logo=windows)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
 
 ---
 
